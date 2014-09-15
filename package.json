@@ -1,7 +1,7 @@
 {
   "name": "mongoose-ui-forms",
-  "version": "0.0.1",
-  "main": "lib/index.js",
+  "version": "0.0.2",
+  "main": "./lib/index.js",
   "description": "Mongoose plugin to map mongoose schema to ui-forms schema",
   "homepage": "https://github.com/valorkin/mongoose-ui-forms",
   "bugs": "https://github.com/valorkin/mongoose-ui-forms/issues",
